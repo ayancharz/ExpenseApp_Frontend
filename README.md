@@ -1,4 +1,4 @@
-# expenseapp_frontend
+# ExpenseApp_Frontend
 
 ## Project setup
 ```
