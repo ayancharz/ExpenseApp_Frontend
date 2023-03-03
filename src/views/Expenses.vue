@@ -8,7 +8,7 @@
 import ExpenseTable from '../components/ExpenseTable.vue'
 
 export default {
-  components: { ExpenseTable },
+  components: { ExpenseTable }, 
     name: "get-expenses"
 }
 </script>
